@@ -97,13 +97,13 @@
 <br clear="both">
 
 <div align="left">
-  <a href="linkedin.com/in/marvinhozi" target="_blank">
+  <a href="https://www.linkedin.com/in/marvinhozi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="instagram.com/cyber0x01" target="_blank">
+  <a href="https://www.instagram.com/cyber0x01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
   </a>
-  <a href="www.twitter.com/cyber0x01" target="_blank">
+  <a href="https://www.twitter.com/cyber0x01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
   </a>
 </div>
