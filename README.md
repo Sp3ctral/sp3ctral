@@ -1,8 +1,16 @@
-<h1 align="left">Hi 👋! My name is Marvin!<br><br>I am a passionate full-stack software engineer. Currently @ George Fox University graduating with a B.S. in Computer Science in April 2024.</h1>
+<h1 align="left">About me ⚡</h1>
 
 ###
 
-<h3 align="left">Some of my favorite technologies:</h3>
+<h2 align="left">Hi 👋! My name is Marvin!</h2>
+
+###
+
+<h3 align="left">I am a passionate full-stack software engineer graduating from George Fox University with a B.S. in Computer Science in April 2024.</h3>
+
+###
+
+<h1 align="left">Some of my favorite technologies & tools 🛠️</h1>
 
 ###
 
@@ -82,33 +90,32 @@
 
 ###
 
-<h3 align="left">Let's Connect!</h3>
+<h1 align="left">Let's Connect! 📣</h1>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <a href="www.linkedin.com/in/marvinhozi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="35" alt="linkedin logo"  />
+  <a href="linkedin.com/in/marvinhozi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="www.instagram.com/cyber0x01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="35" alt="instagram logo"  />
+  <a href="instagram.com/cyber0x01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
+  </a>
+  <a href="www.twitter.com/cyber0x01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sp3ctral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&custom_title=Most%20Recently%20Used%20Languages" height="175" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sp3ctral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true&custom_title=Recently%20Used%20Languages" height="175" alt="languages graph"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/sp3ctral/sp3ctral/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=marvinhozi" alt="Layout with last medium posts"  />
-</div>
 
 ###
