@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Marvin!<br><br>I am a passionate full-stack software engineer graduating from George Fox University with a B.S. in Computer Science in April 2024.</h1>
+<h1 align="left">Hi 👋! My name is Marvin!<br><br>I am a passionate full-stack software engineer. Currently @ George Fox University graduating with a B.S. in Computer Science in April 2024.</h1>
 
 ###
 
@@ -87,10 +87,10 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/marvinhozi" target="_blank">
+  <a href="www.linkedin.com/in/marvinhozi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="35" alt="linkedin logo"  />
   </a>
-  <a href="instagram.com/cyber0x01" target="_blank">
+  <a href="www.instagram.com/cyber0x01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="35" alt="instagram logo"  />
   </a>
 </div>
