@@ -8,6 +8,8 @@
 
 <h3 align="left">I am a passionate full-stack software engineer graduating from George Fox University with a B.S. in Computer Science in April 2024.</h3>
 
+### While you're here you may also like my [portfolio site](hozi.systems) 🤩
+
 ###
 
 <h1 align="left">Some of my favorite technologies & tools 🛠️</h1>
