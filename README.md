@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am a passionate full-stack software engineer with a focus on creating secure, scalable, high-performance software!.</h3>
+<h3 align="left">I am a passionate full-stack software engineer with a focus on creating secure, scalable, high-performance software.</h3>
 
 ### While you're here you may also like my [portfolio site](https://www.hozi.systems) 🤩
 
