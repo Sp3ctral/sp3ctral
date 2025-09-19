@@ -29,13 +29,9 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="32" alt="postgresql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=redis" height="32" alt="redis logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt="dot-net logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="32" alt="netlify logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
   <img width="10" />
@@ -43,33 +39,15 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="32" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="32" alt="csharp logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="32" alt="c logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=scala" height="32" alt="scala logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=grafana" height="32" alt="grafana logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="32" alt="graphql logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=django" height="32" alt="django logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" alt="tensorflow logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redux" height="32" alt="redux logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angularjs logo"  />
   <img width="10" />
@@ -77,17 +55,12 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="32" alt="bash logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=flutter" height="32" alt="flutter logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=flask" height="32" alt="flask logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="32" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -102,7 +75,7 @@
   <a href="https://www.linkedin.com/in/marvinhozi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/cyber0x01" target="_blank">
+  <a href="https://www.instagram.com/marvin.0x01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.twitter.com/cyber0x01" target="_blank">
